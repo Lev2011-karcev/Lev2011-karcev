@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- Заголовок профиля -->
+<h1 align="center">Lev</h1>
 
-<!--
-**Lev2011-karcev/Lev2011-karcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Backend & System developer • C++ • Java • Spring  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Моя активность
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📊 Статистика по языкам
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Git-статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lev&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+
+## 📬 Мои контакты
+
+Telegram: @ligfi_cpp_java
+Email: lev.kartsev.00@mail.ru
+
+---
+
+### ⭐ Не забудь поставить звезду лучшим репозиториям!
